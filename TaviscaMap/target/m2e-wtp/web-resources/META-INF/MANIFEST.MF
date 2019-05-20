@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: TaviscaMap
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: pankaj
+Implementation-Vendor-Id: com.Tavisca
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/TaviscaMap
+Created-By: Maven Integration for Eclipse
+
